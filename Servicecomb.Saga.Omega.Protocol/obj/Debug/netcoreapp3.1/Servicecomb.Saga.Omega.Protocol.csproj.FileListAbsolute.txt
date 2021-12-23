@@ -1,0 +1,27 @@
+D:\VIP专题\微服务专题\微服务项目\consul+polly+oclet+identityserver4+conuslconfig+saga\RuanMou.MicroService\Servicecomb.Saga.Omega.Protocol\bin\Debug\netcoreapp3.1\Servicecomb.Saga.Omega.Protocol.deps.json
+D:\VIP专题\微服务专题\微服务项目\consul+polly+oclet+identityserver4+conuslconfig+saga\RuanMou.MicroService\Servicecomb.Saga.Omega.Protocol\bin\Debug\netcoreapp3.1\Servicecomb.Saga.Omega.Protocol.dll
+D:\VIP专题\微服务专题\微服务项目\consul+polly+oclet+identityserver4+conuslconfig+saga\RuanMou.MicroService\Servicecomb.Saga.Omega.Protocol\bin\Debug\netcoreapp3.1\Servicecomb.Saga.Omega.Protocol.pdb
+D:\VIP专题\微服务专题\微服务项目\consul+polly+oclet+identityserver4+conuslconfig+saga\RuanMou.MicroService\Servicecomb.Saga.Omega.Protocol\obj\Debug\netcoreapp3.1\Servicecomb.Saga.Omega.Protocol.AssemblyInfoInputs.cache
+D:\VIP专题\微服务专题\微服务项目\consul+polly+oclet+identityserver4+conuslconfig+saga\RuanMou.MicroService\Servicecomb.Saga.Omega.Protocol\obj\Debug\netcoreapp3.1\Servicecomb.Saga.Omega.Protocol.AssemblyInfo.cs
+D:\VIP专题\微服务专题\微服务项目\consul+polly+oclet+identityserver4+conuslconfig+saga\RuanMou.MicroService\Servicecomb.Saga.Omega.Protocol\obj\Debug\netcoreapp3.1\Servicecomb.Saga.Omega.Protocol.csproj.CoreCompileInputs.cache
+D:\VIP专题\微服务专题\微服务项目\consul+polly+oclet+identityserver4+conuslconfig+saga\RuanMou.MicroService\Servicecomb.Saga.Omega.Protocol\obj\Debug\netcoreapp3.1\Servicecomb.Saga.Omega.Protocol.dll
+D:\VIP专题\微服务专题\微服务项目\consul+polly+oclet+identityserver4+conuslconfig+saga\RuanMou.MicroService\Servicecomb.Saga.Omega.Protocol\obj\Debug\netcoreapp3.1\Servicecomb.Saga.Omega.Protocol.pdb
+D:\VIP专题\微服务专题\微服务项目\consul+polly+oclet+identityserver4+conuslconfig+saga\RuanMou.MicroService\Servicecomb.Saga.Omega.Protocol\obj\Debug\netcoreapp3.1\Servicecomb.Saga.Omega.Protocol.csprojAssemblyReference.cache
+D:\VIP专题\微服务专题\微服务项目\consul+polly+ocelot+consulconfig+saga\RuanMou.MicroService\Servicecomb.Saga.Omega.Protocol\bin\Debug\netcoreapp3.1\Servicecomb.Saga.Omega.Protocol.deps.json
+D:\VIP专题\微服务专题\微服务项目\consul+polly+ocelot+consulconfig+saga\RuanMou.MicroService\Servicecomb.Saga.Omega.Protocol\bin\Debug\netcoreapp3.1\Servicecomb.Saga.Omega.Protocol.dll
+D:\VIP专题\微服务专题\微服务项目\consul+polly+ocelot+consulconfig+saga\RuanMou.MicroService\Servicecomb.Saga.Omega.Protocol\bin\Debug\netcoreapp3.1\Servicecomb.Saga.Omega.Protocol.pdb
+D:\VIP专题\微服务专题\微服务项目\consul+polly+ocelot+consulconfig+saga\RuanMou.MicroService\Servicecomb.Saga.Omega.Protocol\obj\Debug\netcoreapp3.1\Servicecomb.Saga.Omega.Protocol.csprojAssemblyReference.cache
+D:\VIP专题\微服务专题\微服务项目\consul+polly+ocelot+consulconfig+saga\RuanMou.MicroService\Servicecomb.Saga.Omega.Protocol\obj\Debug\netcoreapp3.1\Servicecomb.Saga.Omega.Protocol.AssemblyInfoInputs.cache
+D:\VIP专题\微服务专题\微服务项目\consul+polly+ocelot+consulconfig+saga\RuanMou.MicroService\Servicecomb.Saga.Omega.Protocol\obj\Debug\netcoreapp3.1\Servicecomb.Saga.Omega.Protocol.AssemblyInfo.cs
+D:\VIP专题\微服务专题\微服务项目\consul+polly+ocelot+consulconfig+saga\RuanMou.MicroService\Servicecomb.Saga.Omega.Protocol\obj\Debug\netcoreapp3.1\Servicecomb.Saga.Omega.Protocol.csproj.CoreCompileInputs.cache
+D:\VIP专题\微服务专题\微服务项目\consul+polly+ocelot+consulconfig+saga\RuanMou.MicroService\Servicecomb.Saga.Omega.Protocol\obj\Debug\netcoreapp3.1\Servicecomb.Saga.Omega.Protocol.dll
+D:\VIP专题\微服务专题\微服务项目\consul+polly+ocelot+consulconfig+saga\RuanMou.MicroService\Servicecomb.Saga.Omega.Protocol\obj\Debug\netcoreapp3.1\Servicecomb.Saga.Omega.Protocol.pdb
+D:\.NET02期架构班（加密）\第三章 微服务\微服务架构7-微服务事务(二)\微服务架构7-微服务事务(二)\RuanMou.MicroService\Servicecomb.Saga.Omega.Protocol\bin\Debug\netcoreapp3.1\Servicecomb.Saga.Omega.Protocol.deps.json
+D:\.NET02期架构班（加密）\第三章 微服务\微服务架构7-微服务事务(二)\微服务架构7-微服务事务(二)\RuanMou.MicroService\Servicecomb.Saga.Omega.Protocol\bin\Debug\netcoreapp3.1\Servicecomb.Saga.Omega.Protocol.dll
+D:\.NET02期架构班（加密）\第三章 微服务\微服务架构7-微服务事务(二)\微服务架构7-微服务事务(二)\RuanMou.MicroService\Servicecomb.Saga.Omega.Protocol\bin\Debug\netcoreapp3.1\Servicecomb.Saga.Omega.Protocol.pdb
+D:\.NET02期架构班（加密）\第三章 微服务\微服务架构7-微服务事务(二)\微服务架构7-微服务事务(二)\RuanMou.MicroService\Servicecomb.Saga.Omega.Protocol\obj\Debug\netcoreapp3.1\Servicecomb.Saga.Omega.Protocol.csproj.AssemblyReference.cache
+D:\.NET02期架构班（加密）\第三章 微服务\微服务架构7-微服务事务(二)\微服务架构7-微服务事务(二)\RuanMou.MicroService\Servicecomb.Saga.Omega.Protocol\obj\Debug\netcoreapp3.1\Servicecomb.Saga.Omega.Protocol.AssemblyInfoInputs.cache
+D:\.NET02期架构班（加密）\第三章 微服务\微服务架构7-微服务事务(二)\微服务架构7-微服务事务(二)\RuanMou.MicroService\Servicecomb.Saga.Omega.Protocol\obj\Debug\netcoreapp3.1\Servicecomb.Saga.Omega.Protocol.AssemblyInfo.cs
+D:\.NET02期架构班（加密）\第三章 微服务\微服务架构7-微服务事务(二)\微服务架构7-微服务事务(二)\RuanMou.MicroService\Servicecomb.Saga.Omega.Protocol\obj\Debug\netcoreapp3.1\Servicecomb.Saga.Omega.Protocol.csproj.CoreCompileInputs.cache
+D:\.NET02期架构班（加密）\第三章 微服务\微服务架构7-微服务事务(二)\微服务架构7-微服务事务(二)\RuanMou.MicroService\Servicecomb.Saga.Omega.Protocol\obj\Debug\netcoreapp3.1\Servicecomb.Saga.Omega.Protocol.dll
+D:\.NET02期架构班（加密）\第三章 微服务\微服务架构7-微服务事务(二)\微服务架构7-微服务事务(二)\RuanMou.MicroService\Servicecomb.Saga.Omega.Protocol\obj\Debug\netcoreapp3.1\Servicecomb.Saga.Omega.Protocol.pdb
